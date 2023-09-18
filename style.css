@@ -1,0 +1,13 @@
+body{
+  background-color: brown;
+  color: antiquewhite;
+  font-family: monospace;
+}
+
+p{
+  letter-spacing: 2px;
+}
+
+img{
+  width: 300px;
+}
